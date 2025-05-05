@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdreazul&label=Profile%20views&color=0e75b6&style=flat" alt="imdreazul" /> </p>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Django**<br><br>- 💬 Ask me about **MERN & Django**<br><br>- 📫 How to reach me **imdreazul@gmail.com**<br><br>- ⚡ Fun fact **I am friendly**
+- 🌱 I’m currently learning **Django**<br><br>- 💬 Ask me about **Django & Odoo ERP**<br><br>- 📫 How to reach me **imdreazul@gmail.com**<br><br>- ⚡ Fun fact **I am friendly**
 
 
 ## 🌐 Socials:
