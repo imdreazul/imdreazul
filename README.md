@@ -8,6 +8,7 @@
 
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imdreazul/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Md-Reazul-Islam/pfbid0pHyTB4YqyMdKLiaf3rr7jGHXe97K2dRd9pkjaSbiBMBnraVQ74vEgJGPToAeuAECl/?mibextid=ZbWKwL) 
 
 # 💻 Tech Stack:
